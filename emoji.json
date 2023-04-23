@@ -791,86 +791,89 @@
       }
     ]
   },
-  "Kawayi": [
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/00.png\">",
-      "text": "kawayi-开心"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/01.png\">",
-      "text": "kawayi-酸"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/02.png\">",
-      "text": "kawayi-惊"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/03.png\">",
-      "text": "kawayi-混乱"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/04.png\">",
-      "text": "kawayi-囧"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/05.png\">",
-      "text": "kawayi-偷笑"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/06.png\">",
-      "text": "kawayi-赞"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/07.png\">",
-      "text": "kawayi-呜"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/08.png\">",
-      "text": "kawayi-抄了"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/09.png\">",
-      "text": "kawayi-害羞"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/10.png\">",
-      "text": "kawayi-怒"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/11.png\">",
-      "text": "kawayi-喜欢"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/12.png\">",
-      "text": "kawayi-爱"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/13.png\">",
-      "text": "kawayi-烦"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/14.png\">",
-      "text": "kawayi-惊讶"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/15.png\">",
-      "text": "kawayi-难过"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/16.png\">",
-      "text": "kawayi-超人"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/17.png\">",
-      "text": "kawayi-宝剑"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/18.png\">",
-      "text": "kawayi-酸酸"
-    },
-    {
-      "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/19.png\">",
-      "text": "kawayi-头脑风暴"
-    }
-  ]
+  "Kawayi": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/00.png\">",
+        "text": "kawayi-开心"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/01.png\">",
+        "text": "kawayi-酸"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/02.png\">",
+        "text": "kawayi-惊"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/03.png\">",
+        "text": "kawayi-混乱"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/04.png\">",
+        "text": "kawayi-囧"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/05.png\">",
+        "text": "kawayi-偷笑"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/06.png\">",
+        "text": "kawayi-赞"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/07.png\">",
+        "text": "kawayi-呜"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/08.png\">",
+        "text": "kawayi-抄了"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/09.png\">",
+        "text": "kawayi-害羞"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/10.png\">",
+        "text": "kawayi-怒"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/11.png\">",
+        "text": "kawayi-喜欢"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/12.png\">",
+        "text": "kawayi-爱"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/13.png\">",
+        "text": "kawayi-烦"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/14.png\">",
+        "text": "kawayi-惊讶"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/15.png\">",
+        "text": "kawayi-难过"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/16.png\">",
+        "text": "kawayi-超人"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/17.png\">",
+        "text": "kawayi-宝剑"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/18.png\">",
+        "text": "kawayi-酸酸"
+      },
+      {
+        "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/twikoo-emoji/kawayi/19.png\">",
+        "text": "kawayi-头脑风暴"
+      }
+    ]
+  }
 }
